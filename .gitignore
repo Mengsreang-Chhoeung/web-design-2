@@ -1,0 +1,5 @@
+test.txt
+# test/**
+
+# test/test-1.txt
+test/test-*.txt
